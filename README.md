@@ -1,6 +1,6 @@
 # buzzbreak
 <br>
-<br># Installation
+# Installation
 <br>
 <br>$ pkg update && pkg upgrade
 <br>$ pkg install git
